@@ -1,8 +1,6 @@
-import django
-
 python3
 
-
+import django
 import string
 import random
 
