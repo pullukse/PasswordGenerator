@@ -1,4 +1,4 @@
-pip install Django
+import django
 
 python3
 
